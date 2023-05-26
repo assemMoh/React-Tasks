@@ -1,0 +1,46 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Mercedes",
+      "type": "amg",
+      "price": 131000,
+      "description": "The official Mercedes-AMG website all about Performance Luxury: unique vehicles, exciting stories and exclusive benefits as a Private Lounge member."
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "type": "720i",
+      "price": "400000",
+      "description": "The X6 Sports Activity Coupe puts you in a position of power with BMW TwinPower Turbo engines an inline 6-cylinder enhanced with the latest 48V mild-hybrid"
+    },
+    {
+      "id": 3,
+      "name": "Aston Martin",
+      "type": "Vantage",
+      "price": 100000,
+      "description": "Vantage is a global, multi-asset CFD broker offering clients access to a nimble and powerful service for CFD trading on Forex, Indices, Commodities, ..."
+    },
+    {
+      "id": 5,
+      "name": "Fiat",
+      "type": "500x",
+      "price": 120000,
+      "description": "The 500X family is designed to provide smooth driving, great performance and more efficient consumption on all your adventures, thanks to the Firefly petrol ..."
+    },
+    {
+      "id": 6,
+      "name": "Seat",
+      "type": "Ibiza",
+      "price": 100000,
+      "description": "The SEAT Arona is the crossover SUV to suit modern life. Navigate the urban jungle or cruise the countryside with ease and style in SEAT Arona."
+    },
+    {
+      "name": "Suzuki",
+      "type": "Ciaz",
+      "price": "340000",
+      "description": "Nice car",
+      "id": 11
+    }
+  ]
+}
